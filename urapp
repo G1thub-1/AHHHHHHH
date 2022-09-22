@@ -1,0 +1,9 @@
+INSTRUCTIONS:
+Go to "main.sh"
+Look below code
+Replace (your app here) with your apps exe.
+EXAMPLE:
+wine 7z1900.exe
+wine OBS.exe
+If your exe has a space, put it in quotes:
+wine 'Among Us.exe'
